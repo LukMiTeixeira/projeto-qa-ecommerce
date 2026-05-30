@@ -3,7 +3,7 @@ Projeto prático de QA: Planejamento, cenários em BDD, reporte de bugs e automa
 Markdown
 # 🎯 Projeto de QA - Validação de E-commerce
 
-Este projeto tem como objetivo aplicar técnicas de Quality Assurance (QA) para validar o fluxo principal de compras (Busca, Carrinho e Checkout) do e-commerce [Nome do Site].
+Este projeto tem como objetivo aplicar técnicas de Quality Assurance (QA) para validar o fluxo principal de compras (Busca, Carrinho e Checkout) do e-commerce [[Nome do Site](https://www.mercadolivre.com.br/)].
 
 ---
 
